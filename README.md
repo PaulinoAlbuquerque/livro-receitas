@@ -5,3 +5,4 @@
 Olá ! Bem vindo ao meu livro de receitas:recycle:
 
 - Strogonoff de frango
+- Pavê
